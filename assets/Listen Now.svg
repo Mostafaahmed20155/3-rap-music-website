@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="231" height="233" viewBox="0 0 231 233">
+  <g id="Listen_Now" data-name="Listen Now" transform="translate(-885 -865.333)">
+    <g id="Group_57" data-name="Group 57" transform="translate(885 865)">
+      <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="115.5" cy="116.5" rx="115.5" ry="116.5" transform="translate(0 0.333)" fill="#ff4865"/>
+      <path id="Path_483" data-name="Path 483" d="M314.419,588.507c-36.987.22-69.976-22.612-83.971-56.911-24.722-60.409,18.484-128.516,83.971-128.886a1.7,1.7,0,0,1,1.709,1.679,1.719,1.719,0,0,1-1.709,1.709c-63.178-.38-106.384,65.288-82.762,125.018C244.913,564.775,277.072,588.287,314.419,588.507Z" transform="translate(-199.096 -378.539)" fill="#f7f3e4"/>
+    </g>
+    <text id="أستمع_الأن" data-name="أستمع الأن" transform="translate(1069 991.333)" fill="#fff" font-size="29" font-family="AirArabia"><tspan x="-136.329" y="0">أستمع الأن</tspan></text>
+  </g>
+</svg>
